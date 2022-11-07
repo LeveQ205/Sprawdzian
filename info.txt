@@ -6,3 +6,4 @@ touch info.txt
 git status
 git add .
 git commit -m "Rozpoczęcie projektu"
+07.11.2022 13:43
